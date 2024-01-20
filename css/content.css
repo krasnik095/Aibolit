@@ -1,0 +1,69 @@
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 130px;
+  
+  }
+  
+  .content__list {
+    margin: 0;
+    display: block;
+  
+  
+  }
+  
+  .content__list li {
+  
+    padding-top: 60px;
+    list-style: none;
+  
+  }
+  
+  .content__list li::before {
+    content: '\2460';
+    color: red;
+  }
+  
+  .content__text {
+  
+    padding-left: 265px;
+  
+  
+  }
+  
+  .content__text p {
+    font-family: SchoolBook;
+    font-size: 80px;
+    font-style: normal;
+    line-height: 110px;
+    padding-left: 10px;
+  
+  }
+  
+  .content__text button {
+    margin-bottom: 50px;
+  }
+  
+  .content__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content__picture {
+    display: flex;
+    align-items: baseline;
+    width: 100%;
+  
+  }
+  
+  .content__img__1 {
+    width: 100%;
+    position: relative;
+  
+  }
+  
+  .content__img__2 {
+    width: 100%;
+  }

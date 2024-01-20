@@ -1,0 +1,27 @@
+
+.image-stack {
+    display: block;
+    position: relative;
+  }
+  
+  .image-stack__item--bottom {
+  
+    display: block;
+    position: absolute;
+    right: 118px;
+    top: 223px;
+    width: 80%;
+    z-index: 1;
+  }
+  
+  .image-stack__item--top {
+    display: block;
+    flex: 0 0 25%;
+    padding-top: 20px;
+    padding-right: 20%;
+    width: 80%;
+    position: inherit;
+    top: -11px;
+    z-index: 1;
+    right: -282px;
+  }

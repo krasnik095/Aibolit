@@ -1,0 +1,36 @@
+
+.text {
+
+    padding-bottom: 20px;
+  
+  
+    right: 20px;
+  }
+  
+  .text>p {
+  
+    font-size: 66px;
+  
+    text-align: left;
+    text-align: center;
+  
+    font-size: 60px;
+    font-weight: 700;
+    color: #59443F;
+    padding-bottom: 20px;
+    line-height: 110px;
+    text-transform: uppercase;
+  }
+  
+  .text__1 {
+
+    color: #fff;
+    margin-top: 301px;
+    margin-left: 230px;
+    font-size: 80px;
+    font-family: "SchoolBook";
+    width: 826px;
+    height: 287px;
+    font-weight: 700;
+    word-spacing: 10px;
+  }

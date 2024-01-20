@@ -1,0 +1,9 @@
+.soom {
+    display: flex;
+    background: #FFC59E;
+    height: 100%;
+    flex-wrap: wrap;
+  }
+  .soom__img {
+    margin-top: 32px;
+  }
